@@ -1,1 +1,2 @@
 cases/k8s/notebooks/.env
+*.pickle
