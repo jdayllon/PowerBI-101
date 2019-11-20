@@ -1,2 +1,3 @@
 cases/k8s/notebooks/.env
 *.pickle
+cases/k8s/notebooks/.ipynb_checkpoints/
